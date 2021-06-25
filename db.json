@@ -1,0 +1,38 @@
+{
+  "mascotas": [
+    {
+      "id": 0,
+      "nombre": "Michi",
+      "tipo": "gato"
+    },
+    {
+      "id": 21.456055785737817,
+      "nombre": "Felix",
+      "tipo": "gato"
+    }
+  ],
+  "persona": {
+    "id": 0,
+    "nombre": "Ana",
+    "ciudad": "Piura",
+    "nacionalidad": "Peruana"
+  },
+  "persona2": {
+    "id": 1,
+    "nombre": "Victor",
+    "ciudad": "Cuzco",
+    "nacionalidad": "Peruana"
+  },
+  "persona3": {
+    "id": 2,
+    "nombre": "Gustavo",
+    "ciudad": "Lima",
+    "nacionalidad": "Peruana"
+  },
+  "persona4": {
+    "id": 3,
+    "nombre": "Diana",
+    "ciudad": "Lima",
+    "nacionalidad": "Peruana"
+  }
+}

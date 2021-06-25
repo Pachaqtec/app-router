@@ -12,7 +12,7 @@ import Login from './Login'
 import NotFound from './NotFound'
 
 const Router = () => {
-  let user = false
+  let user = true
   return (
     <BrowserRouter>
       <Switch>
@@ -47,3 +47,18 @@ const Router = () => {
 }
 
 export default Router
+
+
+
+/*
+
+VERBOS SON:
+
+- GET => Obtener información  /:id || ?nombre=Ana&edad=?&ciudad=Pirua
+- POST => Para enviar información sensible { nombre: Victor: ciudad: Lima }
+- PUT => Para actualizar información { nombre: Victor: ciudad: Lima }
+- DELETE => Eliminar un registro /:id
+
+  servicio/:token/:id
+
+*/
